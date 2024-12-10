@@ -1,0 +1,4 @@
+model_name_or_path: Qwen/Qwen2-VL-7B-Instruct
+template: qwen2_vl
+# adapter_name_or_path: saves/Qwen2-VL-7B-Instruct/lora/train_2024-10-23-10000/checkpoint-100
+finetuning_type: lora
